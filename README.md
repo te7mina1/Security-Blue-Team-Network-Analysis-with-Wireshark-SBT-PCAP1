@@ -35,5 +35,5 @@ Network analysis involves collecting, monitoring and analyzing network traffic, 
 - and IP addresses of hosts
 
 ## Conclusion
-After completing this exercise, I was able to file packets from the "display filter" in Wireshark to find specific results based on the activities given to me. I finally learnt to capture and monitor network traffic during the course. These skills are essential in performing network forensics investigation and analysis in the SOC role.
+After completing this exercise, I was able to filter packets from the "display filter" in Wireshark to find specific results based on the activities given to me. I finally learnt to capture and monitor network traffic during the course. These skills are essential in performing network forensics investigation and analysis in the SOC role.
 
