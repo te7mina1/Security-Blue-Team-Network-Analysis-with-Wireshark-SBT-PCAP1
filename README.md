@@ -1,4 +1,6 @@
 # Security Blue Team Network Analysis with Wireshark-SBT-PCAP1
+<img width="786" height="728" alt="image" src="https://github.com/user-attachments/assets/69d10ca0-f5df-40d8-bbae-51fb3405191f" />
+
 ## Introduction
 Network analysis involves collecting, monitoring and analyzing network traffic, such as DNS traffic and other protocols like TCP/UDP/ICMP to detect and investigate security incidents. It involves using tools such as Wireshark and command-line tools(tshark) to capture network traffic, analyze it for suspicious activities, detect intrusions, and understand the network behaviors.
 
